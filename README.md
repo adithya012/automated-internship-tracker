@@ -7,7 +7,39 @@ An open-source, automatically updated list of IT internship opportunities in Ind
 <!-- JOBS:START -->
 ## Latest internship listings
 
-The tracker has not run yet. Open **Actions → Update Internship Listings → Run workflow** to populate this table.
+> Last refreshed: **2026-10-14 05:30 UTC** · **0 listings** · Automatically updated every six hours.
+
+Listings are collected from public sources. Verify eligibility and deadlines on the original application page.
+
+No matching internships were returned by the configured sources in this run.
+
+### Software Engineering
+
+_No matching listings currently available._
+
+### AI & Machine Learning
+
+_No matching listings currently available._
+
+### Data Science & Analytics
+
+_No matching listings currently available._
+
+### Web Development
+
+_No matching listings currently available._
+
+### Other IT Internships
+
+_No matching listings currently available._
+
+### Sources and attribution
+
+- [Remotive](https://remotive.com/remote-jobs) — remote job listings; see the [API terms](https://remotive.com/remote-jobs/api).
+- [Arbeitnow](https://www.arbeitnow.com/) — public job-board API.
+- Greenhouse and Lever listings link to the original employer job pages.
+
+_Listings with known posting dates older than 30 days are removed. Listings with unknown dates are retained._
 
 <!-- JOBS:END -->
 
