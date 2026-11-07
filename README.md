@@ -7,7 +7,7 @@ An open-source, automatically updated list of IT internship opportunities in Ind
 <!-- JOBS:START -->
 ## Latest internship listings
 
-> Last refreshed: **2026-11-06 19:29 UTC** · **0 listings** · Automatically updated every six hours.
+> Last refreshed: **2026-11-07 06:10 UTC** · **0 listings** · Automatically updated every six hours.
 
 Listings are collected from public sources. Verify eligibility and deadlines on the original application page.
 
