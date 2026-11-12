@@ -1,4 +1,16 @@
 {
-  "last_updated_utc": "2026-11-11T19:42:19.908065+00:00",
-  "jobs": []
+  "last_updated_utc": "2026-11-12T07:22:14.724246+00:00",
+  "jobs": [
+    {
+      "id": "sales-operations-intern-berlin-465491",
+      "title": "Sales Operations Intern",
+      "company": "Pergolux",
+      "location": "Berlin | Global Team",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/sales-operations-intern-berlin-465491",
+      "posted_at": "2026-11-12T03:40:17+00:00",
+      "source": "Arbeitnow",
+      "category": "AI & Machine Learning",
+      "remote": false
+    }
+  ]
 }

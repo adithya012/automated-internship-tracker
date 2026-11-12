@@ -7,11 +7,9 @@ An open-source, automatically updated list of IT internship opportunities in Ind
 <!-- JOBS:START -->
 ## Latest internship listings
 
-> Last refreshed: **2026-11-11 19:42 UTC** · **0 listings** · Automatically updated every six hours.
+> Last refreshed: **2026-11-12 07:22 UTC** · **1 listings** · Automatically updated every six hours.
 
 Listings are collected from public sources. Verify eligibility and deadlines on the original application page.
-
-No matching internships were returned by the configured sources in this run.
 
 ### Software Engineering
 
@@ -19,7 +17,9 @@ _No matching listings currently available._
 
 ### AI & Machine Learning
 
-_No matching listings currently available._
+| Company | Internship role | Location | Age | Source | Apply |
+|---|---|---|---|---|---|
+| Pergolux | Sales Operations Intern | Berlin \| Global Team | Today | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/pergolux/sales-operations-intern-berlin-465491) |
 
 ### Data Science & Analytics
 
