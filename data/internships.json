@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-20T20:29:48.879340+00:00",
+  "last_updated_utc": "2026-11-21T07:22:33.526076+00:00",
   "jobs": [
     {
       "id": "sales-operations-intern-berlin-465491",
@@ -10,6 +10,17 @@
       "posted_at": "2026-11-12T03:40:17+00:00",
       "source": "Arbeitnow",
       "category": "AI & Machine Learning",
+      "remote": false
+    },
+    {
+      "id": "campaign-coordinator-intern-berlin-177943",
+      "title": "Campaign Coordinator Intern",
+      "company": "Pergolux",
+      "location": "Berlin | Global Team",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/campaign-coordinator-intern-berlin-177943",
+      "posted_at": "2026-11-20T21:40:14+00:00",
+      "source": "Arbeitnow",
+      "category": "Other IT Internships",
       "remote": false
     }
   ]
