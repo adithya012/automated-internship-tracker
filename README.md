@@ -7,7 +7,7 @@ An open-source, automatically updated list of IT internship opportunities in Ind
 <!-- JOBS:START -->
 ## Latest internship listings
 
-> Last refreshed: **2026-11-23 07:51 UTC** · **2 listings** · Automatically updated every six hours.
+> Last refreshed: **2026-11-24 00:00 UTC** · **2 listings** · Automatically updated every six hours.
 
 Listings are collected from public sources. Verify eligibility and deadlines on the original application page.
 
@@ -33,7 +33,7 @@ _No matching listings currently available._
 
 | Company | Internship role | Location | Age | Source | Apply |
 |---|---|---|---|---|---|
-| Pergolux | Campaign Coordinator Intern | Berlin \| Global Team | 2 days ago | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/pergolux/campaign-coordinator-intern-berlin-177943) |
+| Pergolux | Campaign Coordinator Intern | Berlin \| Global Team | 3 days ago | Arbeitnow | [Apply](https://www.arbeitnow.com/jobs/companies/pergolux/campaign-coordinator-intern-berlin-177943) |
 
 ### Sources and attribution
 
